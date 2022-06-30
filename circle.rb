@@ -1,5 +1,5 @@
 class Circle
     def initialize(rad = 10)
-        @radius = rad
+        @rad = rad
     end
 end
